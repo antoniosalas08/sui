@@ -2,7 +2,7 @@
 
 ## Que es Sui
 1. [Inversores](#Inversores)
-2. [Technologies](#technologies)
+2. [ecosistema](#ecosistema)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
