@@ -1,4 +1,4 @@
-# sui
+# Sui
 
 ## Que es Sui
 1. [Inversores](#Inversores)
