@@ -3,7 +3,7 @@
 ## Que es Sui
 1. [Inversores](#Inversores)
 2. [ecosistema](#ecosistema)
-3. [Respaldo](#Respaldo)
+3. [Token](#Token)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 ### General Info
