@@ -4,7 +4,7 @@
 1. [Inversores](#Inversores)
 2. [ecosistema](#ecosistema)
 3. [Tokenomis](#Tokenomis)
-4. [Collaboration](#collaboration)
+4. [principales dapps](#principales-dapps)
 5. [FAQs](#faqs)
 ### General Info
 ***
