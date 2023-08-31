@@ -2,7 +2,7 @@
 
 ## Que es Sui?
 1. [Inversores](#Inversores)
-2. [ecosistema](#ecosistema)
+2. [ecosistema.](#ecosistema.)
 3. [Tokenomis](#Tokenomis)
 4. [principales dapps](#principales-dapps)
 5. [FAQs](#faqs)
