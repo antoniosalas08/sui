@@ -1,6 +1,6 @@
-# Sui...
+# Sui.
 
-## Que es Sui?...
+## Que es Sui?.
 1. [Inversores](#Inversores)
 2. [ecosistema.](#ecosistema.)
 3. [Tokenomis.](#Tokenomis.)
