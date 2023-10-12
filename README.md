@@ -1,4 +1,4 @@
-# Sui....
+# Sui..
 ## Que es Sui?.
 1. [Inversores](#Inversores)
 2. [ecosistema.](#ecosistema.)
